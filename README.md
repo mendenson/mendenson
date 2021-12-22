@@ -10,7 +10,7 @@ Welcome to my Github Bio!
 </div>
 
 ### Projects
-  - [Digital Clock]()
+  - [Digital Clock](https://github.com/mendenson/Digital_Clock)
 
 ### Published Projects
   - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial)
