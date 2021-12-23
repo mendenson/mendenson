@@ -1,4 +1,4 @@
-## Hey, there! I'm Mendenson Mota 👋🏿
+# Hey, there! I'm Mendenson Mota 👋🏿
 Welcome to my Github Bio!
 
 
@@ -9,11 +9,11 @@ Welcome to my Github Bio!
   <img height="180" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendenson&layout=compact"/>
 </div>
 
-### Projects
-  - [Digital Clock](https://github.com/mendenson/Digital_Clock)
+## Projects
+### [Digital Clock](https://github.com/mendenson/Digital_Clock)
 
-### Published Projects
-  - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial)
+## Published Projects
+### [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial)
   
  
 </div>
