@@ -9,7 +9,7 @@ Welcome to my Github Bio!
   <img height="180" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendenson&layout=compact"/>
 </div>
 
-## Projects
+## Same Product in Different Program Languages Projects
 ### [Digital Clock](https://github.com/mendenson/Digital_Clock)
 
 ## Published Projects
