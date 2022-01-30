@@ -1,5 +1,7 @@
 # Hey, there! I'm Mendenson Mota 👋🏿
-Welcome to my Github Bio!
+<img align="right" src="https://media3.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/>
+<div align="left">
+  Welcome to my Github Bio!
 
 Born and raised in Salvador, Brazil, now established in Calgary, Alberta, I am an enthusiastic and eager up professional, who has a strong desire to learn and welcome any challenge.
 
@@ -10,9 +12,11 @@ Besides that, I keep improving my coding skills and I have been studying and dev
 - [Creating a Digital Clock using VB, HTML, CSS, JS, and Python](https://github.com/mendenson/Digital_Clock)
 
 Published Projects
-- [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial)
+- [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
+</div>
 
-<img align="right" src="https://media3.giphy.com/media/ule4vhcY1xEKQ/giphy.gif"/> 
+
+ 
 <div align="center">
   <a href="https://github.com/mendenson">
   <img height="180" width="380" src="https://github-readme-stats.vercel.app/api?username=mendenson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
