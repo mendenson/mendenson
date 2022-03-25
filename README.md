@@ -12,7 +12,7 @@
 #### - [100 Days of Code: The Complete Python Bootcamp](https://github.com/mendenson/100_Days_of_Code-Python)
 #### - [Creating a Digital Clock using VB, HTML, CSS, JS, and Python](https://github.com/mendenson/Digital_Clock)
 
-#### Published Projects
+#### Unity Published Projects
 #### - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
 </div>
 
