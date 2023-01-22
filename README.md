@@ -8,7 +8,7 @@
  - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
 #### Python Projects
   - [Beginner Projects](https://github.com/mendenson/Pyhton-Begginer_Projects)
-  - [Intermediate Projects]()
+  - [Intermediate Projects](https://github.com/mendenson/Python-Intermediate_Projects/tree/main)
   - [Advanced Projects]()
 #### Front End Projects
   - [Codepen Projects](https://codepen.io/mendenson/)
