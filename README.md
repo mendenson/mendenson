@@ -4,6 +4,7 @@
 #### Certifications
 - [Game Design and Development Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B8H2HMXEB8D5)
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/front-end-development-libraries)
+- [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/javascript-algorithms-and-data-structures)
 #### Unity Projects
 #### Published Game
  - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
