@@ -12,7 +12,7 @@
   - [Beginner Projects](https://github.com/mendenson/Pyhton-Begginer_Projects)
   - [Intermediate Projects](https://github.com/mendenson/Python-Intermediate_Projects/tree/main)
   - [Advanced Projects]()
-#### JavaScripts Projects
+#### JavaScript Projects
   - [Quote Generator](https://mendenson.github.io/quote-generator-JS/)
   -- [(Source Code)](https://github.com/mendenson/quote-generator-JS)
 ## Contact Me
