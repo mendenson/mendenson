@@ -12,8 +12,8 @@
   - [Beginner Projects](https://github.com/mendenson/Pyhton-Begginer_Projects)
   - [Intermediate Projects](https://github.com/mendenson/Python-Intermediate_Projects/tree/main)
   - [Advanced Projects]()
-#### Front End Projects
-  - [Codepen Projects](https://codepen.io/mendenson/)
+#### JavaScripts Projects
+  - [Quote Generator](https://mendenson.github.io/quote-generator-JS/)
 ## Contact Me
 <div align="center"> 
   
