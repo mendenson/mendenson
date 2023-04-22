@@ -15,6 +15,8 @@
 #### JavaScript Projects
   - [Quote Generator](https://mendenson.github.io/quote-generator-JS/)
   -- [(Source Code)](https://github.com/mendenson/quote-generator-JS)
+  -[Infinite Scroll](https://mendenson.github.io/Infinity-scroll-JS/)
+  -- [(Source Code)](https://github.com/mendenson/Infinity-scroll-JS)
 ## Contact Me
 <div align="center"> 
   
