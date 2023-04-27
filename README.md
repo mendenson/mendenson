@@ -17,6 +17,8 @@
   -- [(Source Code)](https://github.com/mendenson/quote-generator-JS)
   - [Infinite Scroll](https://mendenson.github.io/Infinity-scroll-JS/)
   -- [(Source Code)](https://github.com/mendenson/Infinity-scroll-JS)
+  - [Picture in Picture](https://mendenson.github.io/picture-in-picture-JS/)
+  -- [(Source Code)](https://github.com/mendenson/picture-in-picture-JS)
 ## Contact Me
 <div align="center"> 
   
