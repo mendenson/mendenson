@@ -6,7 +6,8 @@
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/front-end-development-libraries)
 - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/javascript-algorithms-and-data-structures)
 #### Unity Projects
-  - [Augmented Reality - Viking](https://github.com/mendenson/AR_Viking)
+  - [Viking Augmented Reality (Android)](https://github.com/mendenson/AR_Viking)
+  - [Basic Immersive house tour (Windows)]()
 #### Published Game
  - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
 #### Python Projects
