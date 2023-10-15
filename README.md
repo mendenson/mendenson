@@ -1,27 +1,19 @@
-## Hey, there! I'm Mendenson! <p> [Unity Developer]() | [Python Programmer]() | [Front End Developer]()
+## Hey, there! I'm Mendenson! <p> 👨‍💻 Software Developer | Specialized in Mobile, AR, VR, Front-End, and Back-End | Passionate about Innovation 🚀
   
-#### Welcome to my Github Bio!
-#### Certifications
-- [Game Design and Development Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B8H2HMXEB8D5)
-- [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/front-end-development-libraries)
-- [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc41f0d321-7d4c-4d0c-91a6-9ca540b62b85/javascript-algorithms-and-data-structures)
-- [AR Development Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HLZ7S56XG537)
-#### Unity Projects
-  - [Viking Augmented Reality (Android)](https://github.com/mendenson/AR_Viking)
-  - [Basic Immersive house tour (Windows)]()
-#### Published Game
- - [Runaway Cell (Android Game)](https://play.google.com/store/apps/details?id=com.IcedMindGameStudio.RunawayCellOfficial) 
-#### Python Projects
-  - [Beginner Projects](https://github.com/mendenson/Pyhton-Begginer_Projects)
-  - [Intermediate Projects](https://github.com/mendenson/Python-Intermediate_Projects/tree/main)
-  - [Advanced Projects]()
-#### JavaScript Projects
-  - [Quote Generator](https://mendenson.github.io/quote-generator-JS/)
-  -- [(Source Code)](https://github.com/mendenson/quote-generator-JS)
-  - [Infinite Scroll](https://mendenson.github.io/Infinity-scroll-JS/)
-  -- [(Source Code)](https://github.com/mendenson/Infinity-scroll-JS)
-  - [Picture in Picture](https://mendenson.github.io/picture-in-picture-JS/)
-  -- [(Source Code)](https://github.com/mendenson/picture-in-picture-JS)
+Hello, I'm Mendenson, a dedicated software developer with 4 years of experience in the technology industry. My professional journey has been marked by a constant pursuit of challenges and a desire to create exceptional solutions.
+
+📱 Mobile Development:
+Throughout my career, I have focused my efforts on mobile development, using technologies like C# and Unity. This specialization has allowed me to contribute to the creation of incredible mobile applications, providing high-quality experiences to users. My passion for creating high-performance, attractive mobile products drives my work.
+
+🌌 Augmented Reality (AR) and Virtual Reality (VR):
+In addition to mobile development, I have explored exciting projects involving AR and VR. I have contributed to the creation of immersive experiences that transform how people interact with the digital world. I am excited to continue exploring the potential of these innovative technologies.
+
+🌐 Front-End and Back-End Development:
+My versatility is not limited to mobile development. I also have a strong knowledge of front-end development, working with JavaScript, and back-end development, using languages like Python and data management with MySQL. This experience allows me to approach end-to-end projects, creating attractive user interfaces and robust systems.
+
+✨ I am always eager for exciting challenges and learning opportunities. If you are looking for a passionate and multifaceted developer, I am open to collaborations and innovative projects.
+
+Connect with me to share ideas, knowledge, and exciting opportunities. I look forward to meeting and collaborating with other professionals equally passionate about technology!
 ## Contact Me
 <div align="center"> 
   
@@ -30,6 +22,6 @@
   <a href = "mailto:mendenson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mendenson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mendenson/mendenson/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
