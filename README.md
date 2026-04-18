@@ -1,4 +1,4 @@
-## Hey, there! I'm Mendenson! <p> 👨‍💻 Software Developer | Specialized in Mobile, AR, VR, Front-End, and Back-End | Passionate about Innovation 🚀
+## Hey, there! I'm Mendenson! <p> 👨‍💻 Aspiring Cybersecurity Analyst | Security+ in progress | Hands-on labs with TryHackMe | Focused on Blue Team & SOC 🚀
   
 Hello, I'm Mendenson, a dedicated software developer with 4 years of experience in the technology industry. My professional journey has been marked by a constant pursuit of challenges and a desire to create exceptional solutions.
 
