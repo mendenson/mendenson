@@ -1,27 +1,72 @@
-## Hey, there! I'm Mendenson! <p> 👨‍💻 Aspiring Cybersecurity Analyst | Security+ in progress | Hands-on labs with TryHackMe | Focused on Blue Team & SOC 🚀
-  
-Hello, I'm Mendenson, a dedicated software developer with 4 years of experience in the technology industry. My professional journey has been marked by a constant pursuit of challenges and a desire to create exceptional solutions.
+# 👋 Hi, I'm Mendenson Mota
 
-📱 Mobile Development:
-Throughout my career, I have focused my efforts on mobile development, using technologies like C# and Unity. This specialization has allowed me to contribute to the creation of incredible mobile applications, providing high-quality experiences to users. My passion for creating high-performance, attractive mobile products drives my work.
+🎯 Aspiring Cybersecurity Analyst transitioning from Software Development  
+🔐 Currently studying for CompTIA Security+  
+🧪 Hands-on labs with TryHackMe and building real-world security projects  
+📍 Based in Calgary, Canada  
 
-🌌 Augmented Reality (AR) and Virtual Reality (VR):
-In addition to mobile development, I have explored exciting projects involving AR and VR. I have contributed to the creation of immersive experiences that transform how people interact with the digital world. I am excited to continue exploring the potential of these innovative technologies.
+---
 
-🌐 Front-End and Back-End Development:
-My versatility is not limited to mobile development. I also have a strong knowledge of front-end development, working with JavaScript, and back-end development, using languages like Python and data management with MySQL. This experience allows me to approach end-to-end projects, creating attractive user interfaces and robust systems.
+## 🚀 About Me
 
-✨ I am always eager for exciting challenges and learning opportunities. If you are looking for a passionate and multifaceted developer, I am open to collaborations and innovative projects.
+I am transitioning my career into cybersecurity with a strong foundation in software development and problem-solving.
 
-Connect with me to share ideas, knowledge, and exciting opportunities. I look forward to meeting and collaborating with other professionals equally passionate about technology!
-## Contact Me
-<div align="center"> 
-  
-  <a href="https://instagram.com/mendenson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/518754967989911553/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mendenson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mendenson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+Currently focused on:
+- Cybersecurity fundamentals (Security+)
+- Network security and threat analysis
+- Blue Team / SOC (Security Operations Center)
 
- 
-</div>
+I am building practical experience through labs, projects, and real-world simulations.
+
+---
+
+## 🧠 What I'm Working On
+
+- 🔐 Cybersecurity Home Lab (Kali Linux + Windows)
+- 🔍 Network scanning and vulnerability analysis
+- 📊 Log analysis and threat detection
+- 🧪 TryHackMe labs and writeups
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Technical Skills
+- Python, SQL, Basic C
+- Networking fundamentals (TCP/IP, DNS, Ports)
+- Linux & Windows environments
+
+### 🔐 Cybersecurity Tools (Learning & Using)
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- TryHackMe Labs
+
+---
+
+## 📂 Featured Projects (In Progress)
+
+- 🔐 cybersecurity-home-lab → Building and documenting a personal cyber lab
+- 🔍 network-security-analysis → Network scanning and risk analysis
+- 📊 log-analysis-siem → Investigating logs and detecting suspicious activity
+- 🧪 tryhackme-writeups → Documenting cybersecurity labs and learning
+
+---
+
+## 🎯 Goals
+
+- Pass CompTIA Security+  
+- Land a Cybersecurity Internship  
+- Transition into a SOC Analyst role  
+
+---
+
+## 📫 Let's Connect
+
+- [Linkedin](https://www.linkedin.com/in/mendenson/)
+- GitHub: You're already here 😄
+
+---
+
+💡 *Always learning. Always improving. Focused on becoming a cybersecurity professional.*
